@@ -19,5 +19,5 @@ for (let i = 1; i <= 15; i++) {
   }
 }
 
-console.log(`A menor altura é: ${menorAltura}m.`);
-console.log(`A maior altura é: ${maiorAltura}m.`);
+document.write(`A menor altura é: ${menorAltura}m<br>`);
+document.write(`A maior altura é: ${maiorAltura}m`);
